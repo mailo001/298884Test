@@ -1,0 +1,9 @@
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netstandard2.0\StringCalculator.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfo.cs
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netstandard2.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netstandard2.0\StringCalculator.deps.json
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netstandard2.0\StringCalculator.pdb
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\Mike\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netstandard2.0\StringCalculator.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pPxO3Y0uD9rylNynzY133hkozR4MpPqvt1x6FoaRrBBzK/4+Z0i79jDTDrLq2CWFicYF93LbS80zjCCqE5M7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mike\\source\\repos\\ClassLibrary3\\ClassLibrary3\\StringCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
